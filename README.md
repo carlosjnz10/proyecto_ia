@@ -2,7 +2,7 @@ Predicción de insolvencia de las 10000 empresas colombianas más importantes a 
 
 Objetivo
 
-Predecir la probabilidad de insolvencia o quiebra de las 500 empresas más importantes de Colombia, a partir de su información financiera disponible, con el fin de facilitar un diagnóstico temprano del riesgo empresarial, fortalecer la toma de decisiones financieras al interior de las organizaciones y proporcionar información relevante a inversionistas, acreedores y aliados estratégicos interesados en evaluar la estabilidad y sostenibilidad de dichas empresas.
+Predecir la probabilidad de insolvencia o quiebra de las 10000 empresas más importantes de Colombia, a partir de su información financiera disponible, con el fin de facilitar un diagnóstico temprano del riesgo empresarial, fortalecer la toma de decisiones financieras al interior de las organizaciones y proporcionar información relevante a inversionistas, acreedores y aliados estratégicos interesados en evaluar la estabilidad y sostenibilidad de dichas empresas.
 
 Descripción
 
