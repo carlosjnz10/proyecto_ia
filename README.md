@@ -1,4 +1,4 @@
-Predicción de insolvencia de las 500 empresas colombianas más importantes a partir de sus perfiles financieros.
+Predicción de insolvencia de las 10000 empresas colombianas más importantes a partir de sus perfiles financieros.
 
 Objetivo
 
