@@ -6,7 +6,7 @@ Predecir la probabilidad de insolvencia o quiebra de las 10000 empresas más imp
 
 Descripción
 
-Este proyecto tiene como objetivo construir una herramienta predictiva, basada en técnicas de inteligencia artificial, capaz de anticipar la probabilidad de quiebra o insolvencia de las 500 empresas más grandes e importantes de Colombia. Para ello, se implementará un enfoque en dos etapas complementarias:
+Este proyecto tiene como objetivo construir una herramienta predictiva, basada en técnicas de inteligencia artificial, capaz de anticipar la probabilidad de quiebra o insolvencia de las 10000 empresas más grandes e importantes de Colombia. Para ello, se implementará un enfoque en dos etapas complementarias:
 1.	Segmentación financiera de las empresas: A partir de indicadores clave como liquidez, rentabilidad, apalancamiento, utilidades, entre otros, se buscará clasificar a las empresas según su perfil financiero utilizando técnicas de aprendizaje no supervisado, como las técnicas de K-means y análisis exploratorio de datos. Esta segmentación permitirá identificar patrones comunes entre grupos de empresas y facilitará el entendimiento de sus características financieras.
 2.	Predicción del riesgo de insolvencia: En una segunda fase, se aplicarán técnicas de aprendizaje supervisado, particularmente el modelo Random Forest, con el fin de identificar patrones asociados a situaciones de quiebra o crisis financiera. Este modelo permitirá anticipar riesgos mediante el análisis de variables históricas y estructurales de las empresas, generando alertas tempranas que pueden ser útiles tanto para la gestión interna como para actores externos.
 
